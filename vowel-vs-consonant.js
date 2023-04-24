@@ -23,5 +23,5 @@ function countVowelsAndConsonants(word) {
     console.log(`"${word}" has ${consonants} consonants and ${vowels} vowels`);
   }
   
-  countVowelsAndConsonants("some word"); // Output: "some word" has X consonants and Y vowels
+  countVowelsAndConsonants("onomonopia"); // Output: "some word" has X consonants and Y vowels
   

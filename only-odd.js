@@ -17,5 +17,5 @@ function filterOddNumbers(numbers) {
     return oddNumbers.length === 1 ? oddNumbers[0] : oddNumbers;
   }
   
-  const numbers = [70, 3]; // Enter numbers, separated by commas between the brackets
+  const numbers = [70, 42, 55, 81, 21, 91, 34]; // Enter numbers, separated by commas between the brackets
   console.log(filterOddNumbers(numbers)); // Output: [odd numbers]
